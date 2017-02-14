@@ -29,13 +29,6 @@ public class DAODB {
 		}  
 		return con;
 	} 
-	/*public static void main(String arg[]) {
-		// TODO Auto-generated method stub
-		
-		DAODB d=new DAODB();
-		d.dbConnection();
-		System.out.print(d.dbConnection());
-
-	}*/
+	
 	    
 }
